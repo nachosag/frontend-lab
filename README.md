@@ -1,0 +1,9 @@
+# Frontend lab
+
+Colección de pequeños proyectos web hechos con HTML, CSS y JavaScript puro. Ideal para practicar y experimentar con ideas frontend.
+
+## Tarjeta de Perfil - NachoSAG
+
+Una tarjeta de presentación simple y responsiva, hecha con HTML y CSS. Incluye una imagen de fondo, un avatar, información del perfil y estadísticas de Twitter.
+
+### Vista previa
