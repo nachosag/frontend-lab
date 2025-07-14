@@ -17,3 +17,4 @@ Hecha con HTML y CSS. Incluye una imagen de fondo.
 
 ### Vista previa
 
+![result](https://github.com/user-attachments/assets/d6d9d248-d78c-49a4-86a4-9b15cd36c93c)
