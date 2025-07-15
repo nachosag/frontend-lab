@@ -18,3 +18,11 @@ Hecha con HTML y CSS. Incluye una imagen de fondo.
 ### Vista previa
 
 ![result](https://github.com/user-attachments/assets/d6d9d248-d78c-49a4-86a4-9b15cd36c93c)
+
+## Tarjeta de crédito
+
+Tarjeta de crédito diseñada con CSS, que al pulsar sobre ella, gire y se muestre la otra cara.
+
+### Vista previa
+
+![result](https://github.com/user-attachments/assets/5c12d621-9786-4083-9a64-4419fda92217)
