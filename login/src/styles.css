@@ -15,7 +15,7 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0;
-  background-image: url("background.svg");
+  background-image: url("../public/background.svg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Ubuntu';
