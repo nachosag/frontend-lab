@@ -15,7 +15,7 @@ body {
 }
 
 .card {
-  background-image: url("bg.svg"), linear-gradient(135deg, #8e2de2, #4a00e0);
+  background-image: url("../public/bg.svg"), linear-gradient(135deg, #8e2de2, #4a00e0);
   background-blend-mode: multiply;
   background-size: cover;
   background-position: center;
