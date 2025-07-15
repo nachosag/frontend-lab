@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Outfit:wght@100..900&display=swap');
+
+:root {
+  --font-text: 'Outfit';
+  --font-number: 'Kode Mono';
+}
+
+body {
+  background-color: rgb(26, 23, 23);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.card {
+  background-image: url("bg.svg"), linear-gradient(135deg, #8e2de2, #4a00e0);
+  background-blend-mode: multiply;
+  background-size: cover;
+  background-position: center;
+  width: 475px;
+  height: 275px;
+  box-sizing: border-box;
+  border-radius: 1.25rem;
+  padding: 10px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  
+}
+
+.chip {
+  width: 120px;
+  height: 60px;
+}
+
+.visa {
+  width: 100px;
+  height: 30px;
+}
+
+.bank-name {
+  align-self: flex-end;
+  margin-top: -4px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: var(--font-text);
+  color: white;
+}
+
+.chip {
+  align-self: flex-start;
+  margin: -25px;
+}
+
+.number {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: -30px;
+}
+
+.number > span {
+  font-size: 34px;
+  font-weight: 400;
+  font-family: var(--font-number);
+  color: white;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.client {
+  align-self: flex-end;
+  margin: 5px 0;
+  font-family: var(--font-text);
+  font-size: 18px;
+  color: white;
+  font-weight: 500;
+  
+}
+
+.date-visa {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 13px;
+}
+
+.date {
+  color: white;
+  font-size: 20px;
+  font-family: var(--font-number);
+  font-weight: 400;
+}
+
