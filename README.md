@@ -26,3 +26,12 @@ Tarjeta de crédito diseñada con CSS, que al pulsar sobre ella, gire y se muest
 ### Vista previa
 
 ![result](https://github.com/user-attachments/assets/5c12d621-9786-4083-9a64-4419fda92217)
+
+## Formulario de registro
+
+Formulario para registrarse. Hay multiples tipos de input y un diseño fachero.
+Hecho con grid y flex.
+
+### Vista previa
+
+![result](https://github.com/user-attachments/assets/06165968-1b5c-4412-b0ba-aacbd69240f6)
