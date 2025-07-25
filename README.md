@@ -41,5 +41,6 @@ Hecho con grid y flex.
 Ingresa tu fecha de nacimiento y conoce tu edad.
 Hecho con flex y un poquito de box-shadow.
 
-
 ### Vista previa
+
+![result](https://github.com/user-attachments/assets/62f9b17c-f58d-49d7-ac81-4cbfa8627e32)
