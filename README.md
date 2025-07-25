@@ -35,3 +35,11 @@ Hecho con grid y flex.
 ### Vista previa
 
 ![result](https://github.com/user-attachments/assets/06165968-1b5c-4412-b0ba-aacbd69240f6)
+
+## Calculadora de edad
+
+Ingresa tu fecha de nacimiento y conoce tu edad.
+Hecho con flex y un poquito de box-shadow.
+
+
+### Vista previa
