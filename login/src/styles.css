@@ -90,3 +90,25 @@ body {
 .login-form>a:hover {
   color: #10449a;
 }
+
+.feedback-message {
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.feedback-message.success {
+  background-color: #d4edda;
+  color: #155724;
+  opacity: 1;
+}
+
+.feedback-message.error {
+  background-color: #f8d7da;
+  color: #721c24;
+  opacity: 1;
+}
